@@ -34,3 +34,15 @@ o intuito deste repositorio e aprender as melhores praticas de versionamento de 
 |git config list | lista as configurações |
 |git config --global user.name | configura o nome do usuario|
 |git config --global user.email | configura o email do usuario|
+
+# Blog Peixe
+
+<div align=center>
+    <img src="./assets/img/iPhone-14-Plus-guime777.github.io.png" width=200>
+    <img src="./assets/img/Macbook-Air-guime777.github.io.png" width=400>
+    
+<div>
+
+Site Desenvolvido em tecnologia HTML e CSS com responsividade presente em tablets e smartphone
+
+[Acesse aqui](https://guime777.github.io/aulagit/)
