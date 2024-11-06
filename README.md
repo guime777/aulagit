@@ -11,8 +11,8 @@ o intuito deste repositorio e aprender as melhores praticas de versionamento de 
          - fonts
 - [x] Realizando primeito commit
 - [x] Estilo inicial css
-- [ ] Realizando segundo commit
-- [ ] Enviando ao github
+- [x] Realizando segundo commit
+- [x] Enviando ao github
 
 ## Instruções GIT
 
