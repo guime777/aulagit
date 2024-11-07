@@ -35,7 +35,7 @@ o intuito deste repositorio e aprender as melhores praticas de versionamento de 
 |git config --global user.name | configura o nome do usuario|
 |git config --global user.email | configura o email do usuario|
 
-# Blog Peixe
+# Blog Bob Esponja
 
 <div align=center>
     <img src="./assets/img/iPhone-14-Plus-guime777.github.io.png" width=200>
